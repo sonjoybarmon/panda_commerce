@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.menu_area{
+    margin-top: 20px;
+}
+.search_form{
+    width: 500px;
+    margin-left: 50px;
+    position: relative;
+    color: #BABABA;
+   
+}
+.search_form span {
+    position: absolute;
+    top: 7px;
+    right: 17px;
+}
+.search_form input{
+    border:1px solid #1A80FF;
+    width: 100%;
+    border-radius: 100px;
+    background-color: #F8F8F8;
+    padding: 0 15px;
+}
+.menu_area img{
+    width: 100px;
+}
+.navbar{
+    padding:10px 0;
+}
+.menu_content ul{
+    margin: 0;
+    padding: 0;
+}
+.menu_content ul li{
+    list-style: none;
+    padding-left: 15px;
+}
+.menu_content ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #707070;
+}
+.slider_area{
+    background-color: #FEEAE9;
+    margin: 50px 0px;
+}
+.slider_text{
+    padding-left: 50px;
+}
+.slider_text h1{
+    font-size: 41px;
+    color: #1f1f1f;
+}
+.slider_text p{
+    font-size: 18px;
+    color: #707070;
+}
+h1.price{
+    color: #FF2078;
+}
+.color_btn{
+    color: #ffffff;
+    font-size: 15px;
+    padding: 9px 20px;
+    background-image: linear-gradient(to bottom, #FF4C93,#FF1D75);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px 0;
+}
+.carousel-indicators .active {
+    background-image: linear-gradient(to bottom, #FF4C93,#FF1D75);
+}
+.carousel-indicators li{
+    height: 5px;
+    border-radius: 10px;
+}
+.padding_bottom{
+    padding-bottom: 50px;
+}
+.categories,.categories-1,.categories-2{
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.categories h1,.categories-1 h1,.categories-2 h1{
+    padding-right: 40px;
+    color: white;
+}
+.categories{
+    background-image: linear-gradient(to right, #FF9C35,#FFD019);
+}
+.categories-1{
+    background-image: linear-gradient(to right, #FF5599,#FF1872);
+}
+.categories-2{
+    background-image: linear-gradient(to right, #4289FF,#3F07F8);
+}
+.card_content {
+    border-radius: 15px;
+    background: white;
+    box-shadow: 10px 10px 40px #ddd;
+    border: none;
+}
+.card_text{
+    padding:0px 30px;
+}
+.card_text h5{
+    color: #1F1F1F;
+}
+.card_text p{
+    color: #979797;
+    padding: 10px 0;
+}
+.card_btn{
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+.card_btn,.card_btn-2{
+    background: black;
+    color: white;
+    font-size: 15px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-weight: 400;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.card_btn i ,.card_btn-2 i{
+    margin-left: 5px;
+}
+.title_text{
+    color: #1F1F1F;
+    margin-bottom: 30px;
+}
+.shoes_beg{
+    background: #F8F8F8;
+    padding: 40px 0;
+}
+.span_color{
+    color: #FEAD2C;
+}
+.contact_werppar{
+    background:#FEEAE9;
+    padding: 50px 0;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.contact_area h3{
+    color: #1F1F1F;   
+}
+.contact_area p{
+    color: #948F8E;
+    font-size: 16px;
+    padding: 20px 0;
+}
+.contact-text{
+    padding: 30px 10px;
+    border-radius: 15px;
+}
+.span_color-2{
+    background-image: linear-gradient(to right, #FF5599,#FF1872);
+    padding-left: 30px ;
+    padding-right: 30px;
+    color: #ffffff;
+    border-radius: 0 15px 15px 0px;
+}
+.contact_input{
+    margin-bottom: 50px;
+}
+footer p{
+    padding: 20px 0;
+}
